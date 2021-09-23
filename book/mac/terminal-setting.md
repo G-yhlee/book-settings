@@ -48,12 +48,14 @@ g1 () {
     if [ $# -eq 0 ]; then
         x='i'
     fi
-    echo "${Green}=== git add . === ${NC}"
+    echo "${Yellow} === git commit $x ===${NC} "
     git add .
-    git status 
-    echo "${Green} === git commit -m $x ===${NC} "
     git commit -m $x
-    echo "${Green} === git push origin main === ${NC}"
+    echo " "
+    
+    echo "${Green} === git push origin main ===${NC} "
     git push origin main
+    echo " "
 }
+
 ```
