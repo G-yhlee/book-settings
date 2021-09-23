@@ -4,6 +4,6 @@
 
 ## INFO
 
-Github: [https://github.com/G-yhlee/coupang-reward-system](https://github.com/G-yhlee/coupang-reward-system)  
-Gitbook: [https://g-yhlee.gitbook.io/coupang-reward-system/](https://g-yhlee.gitbook.io/coupang-reward-system/)
+Github: [https://github.com/G-yhlee/book-settings](https://github.com/G-yhlee/book-settings)  
+Gitbook: [https://g-yhlee.gitbook.io/settings/](https://g-yhlee.gitbook.io/settings/)
 
