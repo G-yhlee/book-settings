@@ -1,7 +1,8 @@
 # Table of contents..
 
-* [template](README.md)
+* [settings](README.md)
 
 
-## subject
+## vscode
 * [vscode-key-setting](book/vscode/vscode-key-setting.md)
+* [vscode-extentions](book/vscode/vscode-extentions.md)
